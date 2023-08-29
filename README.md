@@ -75,3 +75,5 @@ Things you may want to cover:
 
 - belongs_to :room
 - belongs_to :user
+
+# test
